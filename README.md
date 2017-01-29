@@ -13,7 +13,7 @@ python game.py
 Python 3
 
 ## Guidelines for Contribution
-- This is a learning exercise for me, I would greatly appreciate any suggestions or advice that you may hav
+- This is a learning exercise for me, I greatly appreciate any suggestions or advice 
 - Feel free to open a ticket or fork the repository. 
 - Please credit back to me if you need to use my code somewhere.
 
